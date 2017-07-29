@@ -6,9 +6,9 @@ url: "https://carokun.github.io/" # the base hostname & protocol for your site e
 
 # User settings
 username: Caroline Okun
-user_description: computer scientist at upenn
-user_title: Caroline Okun
-email: anon@anon.com
+user_description:
+user_title: computer scientist at upenn
+email: carokun@sas.upenn.edu
 twitter_username: lorem_ipsum
 github_username:  carokun
 gplus_username:  lorem_ipsum
